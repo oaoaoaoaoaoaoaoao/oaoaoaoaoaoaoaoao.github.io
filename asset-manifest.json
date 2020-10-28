@@ -1,10 +1,20 @@
 {
   "main.css": "./static/css/main.07c00d0d.chunk.css",
-  "main.js": "./static/js/main.8e1c236f.chunk.js",
+  "main.js": "./static/js/main.98da8541.chunk.js",
   "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
   "static/css/2.34fce6c5.chunk.css": "./static/css/2.34fce6c5.chunk.css",
-  "static/js/2.32f5fa3b.chunk.js": "./static/js/2.32f5fa3b.chunk.js",
+  "static/js/2.b6bf9ed0.chunk.js": "./static/js/2.b6bf9ed0.chunk.js",
   "index.html": "./index.html",
-  "precache-manifest.fd06ad6e985ac3d09a0546ec8356827f.js": "./precache-manifest.fd06ad6e985ac3d09a0546ec8356827f.js",
-  "service-worker.js": "./service-worker.js"
+  "precache-manifest.c1697955763564d0443a11c9195cd148.js": "./precache-manifest.c1697955763564d0443a11c9195cd148.js",
+  "service-worker.js": "./service-worker.js",
+  "static/media/pumpkin0.png": "./static/media/pumpkin0.d6306300.png",
+  "static/media/pumpkin1.png": "./static/media/pumpkin1.a654a104.png",
+  "static/media/pumpkin2.png": "./static/media/pumpkin2.d2c75a81.png",
+  "static/media/pumpkin3.png": "./static/media/pumpkin3.864b630f.png",
+  "static/media/pumpkin4.png": "./static/media/pumpkin4.b438fab8.png",
+  "static/media/pumpkin5.png": "./static/media/pumpkin5.a0b9b2c8.png",
+  "static/media/pumpkin6.png": "./static/media/pumpkin6.806618d0.png",
+  "static/media/pumpkin7.png": "./static/media/pumpkin7.c3eb2912.png",
+  "static/media/pumpkin8.png": "./static/media/pumpkin8.74ce1ac8.png",
+  "static/media/pumpkin9.png": "./static/media/pumpkin9.785cb865.png"
 }
